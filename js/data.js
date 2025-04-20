@@ -1,5 +1,10 @@
 export default [
   {
+    title: "My Team",
+    github: "https://github.com/mahbubiy571/myteam",
+    vercel: "https://myteam-omega-steel.vercel.app/",
+  },
+  {
     title: "intro-section",
     github: "https://github.com/mahbubiy571/intro-section",
     vercel: "https://intro-section-jade.vercel.app/",
