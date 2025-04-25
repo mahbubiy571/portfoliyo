@@ -1,8 +1,8 @@
 export default [
   {
     title: "My Team",
-    github: "https://github.com/mahbubiy571/myteam",
-    vercel: "https://myteam-omega-steel.vercel.app/",
+    github: "https://github.com/mahbubiy571/myteam-multi-page",
+    vercel: "https://myteam-multi-page-three.vercel.app/",
   },
   {
     title: "intro-section",
