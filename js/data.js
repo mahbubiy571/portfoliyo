@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Design",
+    github: "https://github.com/mahbubiy571/Design",
+    vercel: "https://single-page-design-alpha.vercel.app/",
+  },
+  {
     title: "Coffeeroasters",
     github: "https://github.com/mahbubiy571/coffeeroasters-subscription-site",
     vercel: "https://coffeeroasters-subscription-site-three.vercel.app/",
