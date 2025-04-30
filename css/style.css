@@ -72,9 +72,22 @@ main {
   padding-right: 50px;
 }
 
+.header__container {
+  display: flex;
+  gap: 100px;
+  align-items: center;
+}
+
 .header {
   padding-top: 80px;
   padding-bottom: 80px;
+}
+
+.my-photo {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  background-size: cover;
 }
 
 .portfolio {
