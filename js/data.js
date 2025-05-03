@@ -1,5 +1,10 @@
 export default [
   {
+    title: "NAMANGANLIKLAR-24",
+    github: "https://github.com/mahbubiy571/Namanganliklar24",
+    vercel: "https://namanganliklar24-five.vercel.app/",
+  },
+  {
     title: "Design",
     github: "https://github.com/mahbubiy571/Design",
     vercel: "https://single-page-design-alpha.vercel.app/",
