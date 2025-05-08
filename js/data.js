@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Tech book club",
+    github: "https://github.com/mahbubiy571/tech--book.git",
+    vercel: "https://tech-book-eta.vercel.app/",
+  },
+  {
     title: "NAMANGANLIKLAR-24",
     github: "https://github.com/mahbubiy571/Namanganliklar24",
     vercel: "https://namanganliklar24-five.vercel.app/",
