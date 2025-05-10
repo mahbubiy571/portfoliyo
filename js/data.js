@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page-design-portfolio",
+    github: "https://github.com/mahbubiy571/single--page-design-portfolio",
+    vercel: "https://single-page-design-portfolio-bay.vercel.app/",
+  },
+  {
     title: "Tech book club",
     github: "https://github.com/mahbubiy571/tech--book.git",
     vercel: "https://tech-book-eta.vercel.app/",
