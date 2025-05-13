@@ -1,5 +1,10 @@
 export default [
   {
+    title: "news-homepage",
+    github: "https://github.com/mahbubiy571/news-homepage",
+    vercel: "https://news-homepage-flame-seven.vercel.app/",
+  },
+  {
     title: "single-page-design-portfolio",
     github: "https://github.com/mahbubiy571/single--page-design-portfolio",
     vercel: "https://single-page-design-portfolio-bay.vercel.app/",
