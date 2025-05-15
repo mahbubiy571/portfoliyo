@@ -5,6 +5,11 @@ export default [
     vercel: "https://john-portfolio-three.vercel.app/",
   },
   {
+    title: "John-portfolio",
+    github: "https://github.com/mahbubiy571/John-portfolio",
+    vercel: "https://john-portfolio-three.vercel.app/",
+  },
+  {
     title: "intro-component-with-sign-up-form",
     github: "https://github.com/mahbubiy571/intro-component-with-sign-up-form",
     vercel: "https://intro-component-with-sign-up-form-tau-orpin.vercel.app/",
