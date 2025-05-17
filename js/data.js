@@ -1,5 +1,10 @@
 export default [
   {
+    title: "sunnyside-agency-landing-page",
+    github: "https://github.com/mahbubiy571/sunnyside-agency-landing-page",
+    vercel: "https://sunnyside-agency-landing-page-seven-pi.vercel.app/",
+  },
+  {
     title: "John-portfolio",
     github: "https://github.com/mahbubiy571/John-portfolio",
     vercel: "https://john-portfolio-three.vercel.app/",
