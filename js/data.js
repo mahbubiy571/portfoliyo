@@ -1,5 +1,10 @@
 export default [
   {
+    title: "insure-landing-page",
+    github: "https://github.com/mahbubiy571/insure-landing-page",
+    vercel: "https://insure-landing-page-coral-alpha.vercel.app/",
+  },
+  {
     title: "sunnyside-agency-landing-page",
     github: "https://github.com/mahbubiy571/sunnyside-agency-landing-page",
     vercel: "https://sunnyside-agency-landing-page-seven-pi.vercel.app/",
