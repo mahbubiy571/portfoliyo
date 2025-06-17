@@ -97,6 +97,6 @@ export default [
   {
     title: "social-links-profile",
     github: "https://github.com/mahbubiy571/Loyiha-2.git",
-    vercel: "https://loyiha-2-delta.vercel.app/",
+    vercel: "https://social--links--profile-delta.vercel.app/",
   },
 ];
