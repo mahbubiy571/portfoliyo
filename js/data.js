@@ -1,5 +1,9 @@
 export default [
-  
+  {
+    title: "Home-Page",
+    github: "https://github.com/mahbubiy571/Home-Page",
+    vercel: "https://home-page-sepia-chi.vercel.app/",
+  },
   {
     title: "4-oy imtihon",
     github: "https://github.com/mahbubiy571/12-dars",
