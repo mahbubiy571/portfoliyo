@@ -75,7 +75,7 @@ export default [
     vercel: "https://recipe-page-pearl-pi.vercel.app/",
   },
   {
-    title: "Motobike",
+    title: "Motorbike",
     github: "https://github.com/mahbubiy571/10-dars",
     vercel: "https://motobige.vercel.app/",
   },
