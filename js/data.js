@@ -92,7 +92,7 @@ export default [
   {
     title: "blog-preview-card",
     github: "https://github.com/mahbubiy571/Loyiha-1.git",
-    vercel: "https://loyiha-1-seven.vercel.app/",
+    vercel: "https://blog--preview--card-seven.vercel.app/",
   },
   {
     title: "social-links-profile",
