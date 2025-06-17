@@ -77,7 +77,7 @@ export default [
   {
     title: "Motorbike",
     github: "https://github.com/mahbubiy571/motorbike",
-    vercel: "https://motobige-95iwchku3-mahbubiy571s-projects.vercel.app/",
+    vercel: "https://motorbike-git-main-mahbubiy571s-projects.vercel.app/",
   },
   {
     title: "Sports Car",
