@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Online-Music-Player",
+    github: "https://github.com/mahbubiy571/Online-Music-Player",
+    vercel: "https://online-music-player-psi.vercel.app/",
+  },
+  {
     title: "Home-Page",
     github: "https://github.com/mahbubiy571/Home-Page",
     vercel: "https://home-page-sepia-chi.vercel.app/",
