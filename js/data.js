@@ -15,10 +15,6 @@ export default [
     vercel: "https://home-page-sepia-chi.vercel.app/",
   },
   {
-    title: "4-oy imtihon",
-    github: "https://github.com/mahbubiy571/12-dars",
-  },
-  {
     title: "insure-landing-page",
     github: "https://github.com/mahbubiy571/insure-landing-page",
     vercel: "https://insure-landing-page-coral-alpha.vercel.app/",
