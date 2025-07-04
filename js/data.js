@@ -1,5 +1,10 @@
 export default [
   {
+    title: "User Information Form",
+    github: "https://github.com/mahbubiy571/User-Information-Form/blob/main/index.html",
+    vercel: "https://user-information-form-ten.vercel.app/",
+  },
+  {
     title: "Online-Music-Player",
     github: "https://github.com/mahbubiy571/Online-Music-Player",
     vercel: "https://online-music-player-psi.vercel.app/",
