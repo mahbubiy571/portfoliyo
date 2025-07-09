@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Online Store",
+    github: "https://github.com/mahbubiy571/online-store",
+    vercel: "https://online-store-nine-rosy.vercel.app/",
+  },
+  {
     title: "User Information Form",
     github: "https://github.com/mahbubiy571/User-Information-Form/blob/main/index.html",
     vercel: "https://user-information-form-ten.vercel.app/",
