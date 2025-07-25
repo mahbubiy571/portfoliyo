@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Online Shop",
+    github: "https://github.com/mahbubiy571/Online-Shop",
+    vercel: "https://online-shop-orpin-mu.vercel.app/",
+  },
+  {
     title: "UserApp",
     github: "https://github.com/mahbubiy571/UserApp",
     vercel: "https://user-app-ruddy-seven.vercel.app/",
