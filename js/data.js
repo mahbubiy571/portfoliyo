@@ -1,8 +1,13 @@
 export default [
   {
-    title: "Online Shop",
+    title: "🛒 OnlineShop",
     github: "https://github.com/mahbubiy571/Online-Shop",
-    vercel: "https://online-shop-orpin-mu.vercel.app/",
+    vercel: "https://online-shop-two-virid.vercel.app/",
+  },
+  {
+    title: "Smart Shop",
+    github: "https://github.com/mahbubiy571/Smart-Shop",
+    vercel: "https://smart-shop-lilac.vercel.app/",
   },
   {
     title: "UserApp",
