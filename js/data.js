@@ -5,11 +5,6 @@ export default [
     vercel: "https://online-shop-two-virid.vercel.app/",
   },
   {
-    title: "Smart Shop",
-    github: "https://github.com/mahbubiy571/Smart-Shop",
-    vercel: "https://smart-shop-lilac.vercel.app/",
-  },
-  {
     title: "UserApp",
     github: "https://github.com/mahbubiy571/UserApp",
     vercel: "https://user-app-ruddy-seven.vercel.app/",
