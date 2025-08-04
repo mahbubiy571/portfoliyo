@@ -1,5 +1,10 @@
 export default [
   {
+    title: "🛒 ShopUz",
+    github: "https://github.com/mahbubiy571/ShopUz",
+    vercel: "https://shop-uz-khaki.vercel.app/",
+  },
+  {
     title: "🛒 OnlineShop",
     github: "https://github.com/mahbubiy571/Online-Shop",
     vercel: "https://online-shop-two-virid.vercel.app/",
@@ -16,7 +21,8 @@ export default [
   },
   {
     title: "User Information Form",
-    github: "https://github.com/mahbubiy571/User-Information-Form/blob/main/index.html",
+    github:
+      "https://github.com/mahbubiy571/User-Information-Form/blob/main/index.html",
     vercel: "https://user-information-form-ten.vercel.app/",
   },
   {
