@@ -1,13 +1,13 @@
 export default [
   {
-    title: "🛒 ShopUz",
-    github: "https://github.com/mahbubiy571/ShopUz",
-    vercel: "https://shop-uz-khaki.vercel.app/",
-  },
-  {
     title: "🛒 OnlineShop",
     github: "https://github.com/mahbubiy571/Online-Shop",
     vercel: "https://online-shop-two-virid.vercel.app/",
+  },
+  {
+    title: "🛒 ShopUz",
+    github: "https://github.com/mahbubiy571/ShopUz",
+    vercel: "https://shop-uz-khaki.vercel.app/",
   },
   {
     title: "Online Store",
