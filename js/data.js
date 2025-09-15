@@ -1,5 +1,10 @@
 export default [
   {
+    title: "FreshBite",
+    github: "https://github.com/mahbubiy571/FreshBite",
+    vercel: "https://fresh-bite.vercel.app/",
+  },
+  {
     title: "Authify",
     github: "https://github.com/mahbubiy571/Authify",
     vercel: "https://authify-3ajh2kjri-mahbubiy571s-projects.vercel.app",
