@@ -7,7 +7,7 @@ export default [
   {
     title: "Authify",
     github: "https://github.com/mahbubiy571/Authify",
-    vercel: "authify-ab6xcece9-mahbubiy571s-projects.vercel.app",
+    vercel: "https://authify-tau.vercel.app/login",
   },
   {
     title: "Todo App",
