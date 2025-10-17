@@ -2,7 +2,7 @@ export default [
   {
     title: "Delicious Foods",
     github: "https://github.com/mahbubiy571/Delicious-Foods",
-    vercel: "https://delicious-foods-mocha.vercel.app/",
+    vercel: "https://delicious-foods-k2pl.vercel.app/",
   },
   {
     title: "Shape-Drawer",
