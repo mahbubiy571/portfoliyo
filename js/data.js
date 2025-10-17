@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Delicious Foods",
+    github: "https://github.com/mahbubiy571/Delicious-Foods",
+    vercel: "https://delicious-foods-mocha.vercel.app/",
+  },
+  {
     title: "Shape-Drawer",
     github: "https://github.com/mahbubiy571/Shape-Drawer",
     vercel: "https://shape-drawer-hazel.vercel.app/",
